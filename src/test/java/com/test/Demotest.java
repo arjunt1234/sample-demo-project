@@ -7,7 +7,13 @@ public class Demotest {
  
 		
 		System.out.println("hello selenium");
+
 		System.out.println("hello selenium2");
+
+		
+		System.out.println("hello java");
+		System.out.println("hello core java");
+
 	}
 
 }
