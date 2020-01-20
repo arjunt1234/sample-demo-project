@@ -7,6 +7,7 @@ public class Demotest {
  
 		
 		System.out.println("hello selenium");
+		System.out.println("hello selenium2");
 	}
 
 }
