@@ -21,6 +21,22 @@ public class Demotest {
 		
 		System.out.println("python");
 		System.out.println("hello appium");
+		System.out.println("hello selenium");
+
+		System.out.println("hello selenium2");
+
+		
+		System.out.println("hello java");
+		System.out.println("hello core java");
+
+		System.out.println("hello selenium");
+
+		System.out.println("hello selenium2");
+
+		
+		System.out.println("python");
+		System.out.println("hello appium");
+
 
 	}
 
